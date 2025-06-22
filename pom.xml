@@ -14,6 +14,9 @@
     <name>sim-card-activator</name>
     <description>Microservice responsible for activating Telstra sim cards</description>
     <properties>
+        <sonar.projectKey>simcard-activation</sonar.projectKey>
+        <sonar.projectName>SIM Activation Project</sonar.projectName>
+
         <java.version>11</java.version>
     </properties>
     <dependencies>
